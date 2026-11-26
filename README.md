@@ -51,7 +51,7 @@ I build **production AI agents**: LLM-powered assistants that talk to customers,
 
 ### 🤝 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/abinvv007"><img src="https://img.shields.io/badge/LinkedIn-abinvv007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abin007v"><img src="https://img.shields.io/badge/LinkedIn-abin007v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### 🐍 Contribution snake
