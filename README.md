@@ -44,13 +44,9 @@ I build **production AI agents**: LLM-powered assistants that talk to customers,
 - Using agentic coding tools (Claude Code) in my daily dev and QA workflow
 - Sharpening data structures and algorithms in C++
 
-### 📊 GitHub stats
+### 🔥 Contribution streak
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abin007v&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=Abin007v&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin007v&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🐍 Contribution snake
