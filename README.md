@@ -49,6 +49,11 @@ I build **production AI agents**: LLM-powered assistants that talk to customers,
   <img height="170" src="https://streak-stats.demolab.com?user=Abin007v&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🤝 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/abinvv007"><img src="https://img.shields.io/badge/LinkedIn-abinvv007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 ### 🐍 Contribution snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abin007v/Abin007v/output/github-snake-dark.svg" />
