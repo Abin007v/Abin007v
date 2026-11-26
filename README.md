@@ -53,15 +53,6 @@ I build **production AI agents**: LLM-powered assistants that talk to customers,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin007v&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📌 Featured projects
-| Project | Stack |
-|---|---|
-| [MedicalVoiceAssistantBackend](https://github.com/Abin007v/MedicalVoiceAssistantBackend) | Voice assistant backend |
-| [MERN-portfolio](https://github.com/Abin007v/MERN-portfolio) | MongoDB · Express · React · Node.js |
-| [invoiceGeneratorDjangoReact](https://github.com/Abin007v/invoiceGeneratorDjangoReact) | Django · React |
-| [Budget-Manager](https://github.com/Abin007v/Budget-Manager) | JavaScript |
-| [Notes4u](https://github.com/Abin007v/Notes4u) | JavaScript |
-
 ### 🐍 Contribution snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abin007v/Abin007v/output/github-snake-dark.svg" />
